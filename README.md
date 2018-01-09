@@ -8,7 +8,8 @@ Service rates are exponentially distributed with rates m_a and m_b.
 Usage
 -----
 Just run `$ make` to compile and execute class Simulation.
-Example run: java Simulation (lambda) (m_a) (m_b) (k)
+
+Example run: `java Simulation (lambda) (m_a) (m_b) (k)`
 
 Scripts
 ------
